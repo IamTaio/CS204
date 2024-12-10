@@ -136,7 +136,7 @@ string DisplayList(node * head)
 		list += " " + itoa(ptr->value);
 		ptr = ptr -> next;
 	}
-	return list.substr(0,list.size()-1);
+	return list;
 }
 
 bool CheckInList(node * head, int key)

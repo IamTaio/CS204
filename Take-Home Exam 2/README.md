@@ -11,7 +11,7 @@ Given a list of integers and a specified sorting order, return a sorted subseque
 #### Example
 
 Input:
-Sorting Order: Ascending \n
+Sorting Order: Ascending  
 Integer list: 1 5 8 2 9 10 6 7 4
 
 Output: 1 2 4

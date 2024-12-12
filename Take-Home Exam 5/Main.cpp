@@ -1,10 +1,9 @@
 #include <iostream>
-#include "taiwovictor_Taiwo_VictorOluwalonimi_hw5_WalletClass.h"
+#include "WalletClass.h"
 #include <string>
 using namespace std;
 
-//This program does not perform something meaningful. It just uses the operators and class that you will implement.
-//Do not change anything other than adding include(s) above.
+//This portion of the program was provided to us as part of the assignment, and as such was not written by me.
 
 void display(const Wallet& w)
 {
@@ -27,7 +26,7 @@ Wallet readWallet()
 	return res;
 }
 
-void foo(const Wallet & w)//if you receive no operator matches ... errors in this function, read the life-saving advice in the homework document
+void foo(const Wallet & w)
 {
 	Money t;
 	t.currency = "USD"; t.amount = 33.2;

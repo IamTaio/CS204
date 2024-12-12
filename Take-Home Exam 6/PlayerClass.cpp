@@ -1,6 +1,6 @@
 #include <iostream>
-#include "taiwovictor_Taiwo_VictorOluwalonimi_hw6_PlayerClass.h"
-#include "taiwovictor_Taiwo_VictorOluwalonimi_hw6_BoardClass.h"
+#include "PlayerClass.h"
+#include "BoardClass.h"
 
 using namespace std;
 

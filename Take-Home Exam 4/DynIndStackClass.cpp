@@ -1,7 +1,5 @@
 /******************************************************************************
 Title: A C++ class for a Dynamic stack of matrix coordinates
-Author: Victor Oluwalonimi Taiwo
-Student ID: 28579
 Date: 06/04/2021
 Any known bugs: none
 References: DynIntStack.h
@@ -10,7 +8,7 @@ References: DynIntStack.h
 /* Begin: code taken from DynIntStack.cpp and Updated */
 
 #include <iostream>
-#include "taiwovictor_Taiwo_VictorOluwalonimi_hw4_DynIndStackClass.h"
+#include "DynIndStackClass.h"
 using namespace std;
 
 //************************************************

@@ -1,5 +1,5 @@
 #include <iostream>
-#include "taiwovictor_Taiwo_VictorOluwalonimi_hw3_SubSeqsListClass.h"
+#include "SubSeqsListClass.h"
 using namespace std;
 
 SubSeqsList::SubSeqsList() //Creates a new linked list and initializes the head value as NULL

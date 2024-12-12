@@ -10,8 +10,8 @@ References: DynIntStack.h
 /* Begin: code taken from DynIntStack.cpp and Updated */
 
 
-#ifndef _taiwovictor_Taiwo_VictorOluwalonimi_hw4_DynIndStackClass_H
-#define _taiwovictor_Taiwo_VictorOluwalonimi_hw4_DynIndStackClass_H
+#ifndef DynIndStackClass_H
+#define DynIndStackClass_H
 
 struct StackNode //struct for the stack nodes 
 {

@@ -1,7 +1,5 @@
 /******************************************************************************
 Title: Displaying Sorted Subsequences with Linked Lists
-Author: Victor Oluwalonimi Taiwo
-Student ID: 28579
 Date: 16/3/2021
 Any known bugs: It works fine for txt files but crashes on empty input files
 References: ptrfunc.cpp

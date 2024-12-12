@@ -1,15 +1,13 @@
 /******************************************************************************
 Title: A C++ class for Displaying All Ordered Subsequences with a Hybrid Linked List Structure
-Author: Victor Oluwalonimi Taiwo
-Student ID: 28579
 Date: 29/3/2021
 Any known bugs: none
 References: ptrfunc.cpp
 ******************************************************************************/
 
 
-#ifndef _taiwovictor_Taiwo_VictorOluwalonimi_hw3_SubSeqsListClass_H
-#define _taiwovictor_Taiwo_VictorOluwalonimi_hw3_SubSeqsListClass_H
+#ifndef SubSeqsListClass_H
+#define SubSeqsListClass_H
 
 #include <string>
 using namespace std;
@@ -25,7 +23,8 @@ struct SubSeqNode //struct for making linked list of subsequences
 	SubSeqNode::SubSeqNode (int info, SubSeqNode * p) //Parametric constructor 
 		: value(info), next(p)
 	{};
-};
+};
+
 struct SubSeqHeadNode //struct for making a linked list of the head of ordered subsequences
 {
 	int size; // number of elements in the subsequence

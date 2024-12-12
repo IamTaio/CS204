@@ -1,7 +1,5 @@
 /****************************************************************************************
 Title: A C++ Program for finding paths in matrix using only downward and right movement
-Author: Victor Oluwalonimi Taiwo
-Student ID: 28579
 Date: 06/04/2021
 Any known bugs: none
 References: DynIntStack.h
@@ -12,7 +10,7 @@ References: DynIntStack.h
 #include <string>
 #include <fstream>
 #include <sstream>
-#include "taiwovictor_Taiwo_VictorOluwalonimi_hw4_DynIndStackClass.h"
+#include "DynIndStackClass.h"
 using namespace std;
 
 struct cellStruct //struct to keep matrix values

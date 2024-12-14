@@ -1,7 +1,5 @@
 /****************************************************************************************
 Title: A C++ Class for creating and using a Wallet Object
-Author: Victor Oluwalonimi Taiwo
-Student ID: 28579
 Date: 22/04/2021
 Any known bugs: none
 ****************************************************************************************/
@@ -10,7 +8,7 @@ Any known bugs: none
 
 #include <iostream>
 #include <sstream>
-#include "taiwovictor_Taiwo_VictorOluwalonimi_hw5_WalletClass.h"
+#include "WalletClass.h"
 using namespace std;
 
 Wallet::Wallet() //Default constructor

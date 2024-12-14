@@ -2,7 +2,7 @@
 #include <fstream>
 #include <sstream>
 #include <string>
-#include "taiwovictor_Taiwo_VictorOluwalonimi_hw6_BoardClass.h"
+#include "BoardClass.h"
 
 using namespace std;
 

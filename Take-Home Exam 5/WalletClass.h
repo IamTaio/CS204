@@ -1,7 +1,5 @@
 /****************************************************************************************
 Title: A C++ Class for creating and using a Wallet Object
-Author: Victor Oluwalonimi Taiwo
-Student ID: 28579
 Date: 22/04/2021
 Any known bugs: none
 ****************************************************************************************/

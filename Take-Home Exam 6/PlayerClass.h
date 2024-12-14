@@ -10,7 +10,7 @@ Any known bugs: none
 
 #ifndef _PLAYER_H
 #define _PLAYER_H
-#include "taiwovictor_Taiwo_VictorOluwalonimi_hw6_BoardClass.h"
+#include "BoardClass.h"
 using namespace std;
 
 template<class itemType>

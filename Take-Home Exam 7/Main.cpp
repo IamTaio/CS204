@@ -1,7 +1,5 @@
 /****************************************************************************************
 Title: A C++ Program for simulating production, filler and packager lines
-Author: Victor Oluwalonimi Taiwo
-Student ID: 28579
 Date: 05/25/2021
 Any known bugs: none
 ****************************************************************************************/
@@ -17,7 +15,7 @@ Any known bugs: none
 #include <random>
 #include <time.h>
 #include <mutex>
-#include "taiwovictor_Taiwo_VictorOluwalonimi_hw7_DynIntQueue.h"
+#include "DynIntQueue.h"
 
 using namespace std;
 

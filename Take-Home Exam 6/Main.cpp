@@ -5,8 +5,8 @@
 
 using namespace std;
 
-#include "taiwovictor_Taiwo_VictorOluwalonimi_hw6_PlayerClass.h"
-#include "taiwovictor_Taiwo_VictorOluwalonimi_hw6_BoardClass.h"
+#include "PlayerClass.h"
+#include "BoardClass.h"
 
 template<class itemType>
 void playGame(Board<itemType> &board, Player<itemType> players[2], ifstream & input)

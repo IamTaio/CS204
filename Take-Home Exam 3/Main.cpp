@@ -1,7 +1,5 @@
 /******************************************************************************
 Title: Displaying All Ordered Subsequences with a Hybrid Linked List Structure for a Given Line of Input
-Author: Victor Oluwalonimi Taiwo
-Student ID: 28579
 Date: 29/3/2021
 Any known bugs: none
 References: 
